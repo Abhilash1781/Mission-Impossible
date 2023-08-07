@@ -1,1 +1,1 @@
-A NLP project focusing on sentiment analysis of the reviews of the movie "MISSION IMPOSSIBLE - DEAD RECKONING (2023)
+A NLP project focusing on sentiment analysis of the IMDB reviews of the movie "MISSION IMPOSSIBLE - DEAD RECKONING (2023)
