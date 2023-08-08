@@ -30,7 +30,7 @@ Implemented three models such as:
 1) VADER (Valence Aware Dictionary and sEntiment Reasoner)
 2) RoBERTa ( Robustly Optimized BERT Pre-training Approach )
 3) Bert Base Multilingual Uncased Model
-
+n
 ## Applications
 
 1) Sentiment analysis can help movie studios and producers undertstand audience reactions to their films.
